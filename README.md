@@ -1,9 +1,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/remrow86/tsukini?style=flat-square&logo=macys&logoColor=white)
-![GitHub watchers](https://img.shields.io/github/watchers/remrow86/tsukini?style=flat-square&logo=github&logoColor=white)  
-<a href="https://github.com/remrow86/tsukini/releases/latest"><img alt="Download" src="https://img.shields.io/badge/download-gray?style=for-the-badge&logo=docusign&logoColor=white"></a>
+![GitHub watchers](https://img.shields.io/github/watchers/remrow86/tsukini?style=flat-square&logo=github&logoColor=white)
+<a href="https://github.com/remrow86/tsukini/releases/latest"><img alt="Download" src="https://img.shields.io/badge/download-gray?style=flat-square&logo=docusign&logoColor=white"></a>
 
-# 🥒 tsukini
-tsukini /tsɯkɪnɪ/ is a high-speed .ini file parser written in pure Lua.
+# 🥒 tsukini <sub><sup><sub><sup>/tsɯkɪnɪ/</sup></sub></sup></sub>
+tsukini is a high-speed .ini file parser written in pure Lua.
 ### It's fast
 | Line count | Time to parse (Lua 5.1) | Time to parse (LuaJIT) |
 | ---------- | ----------------------- | ---------------------- |
