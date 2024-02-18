@@ -11,7 +11,7 @@ tsukini /tsɯkɪnɪ/ is a high-speed .ini file parser written in pure Lua.
 ### It's portable
 tsukini doesn't make assumptions about your environment - file I/O is left to the user.
 ### It just works
-
+tsukini doesn't know hundreds of data types. Strings, numbers, booleans and lists are all you need.
 ## Example
 ```lua
 local tsukini = require("tsukini")
