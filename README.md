@@ -1,11 +1,11 @@
 # 🥒 tsukini
 tsukini /tsɯkɪnɪ/ is a high-speed .ini file parser written in pure Lua.
 ### It's fast
-| Line count             | Time to parse (Lua 5.1) | Time to parse (LuaJIT) |
-| ---------------------- | ----------------------- | ---------------------- |
-| <center>128</center>   | `0.004024s`             | `0.002606s`            |
-| <center>2048</center>  | `0.033153s`             | `0.02786s`             |
-| <center>32768</center> | `0.479747s`             | `0.291266s`            |
+| Line count | Time to parse (Lua 5.1) | Time to parse (LuaJIT) |
+| ---------- | ----------------------- | ---------------------- |
+| 128        | `0.004024s`             | `0.002606s`            |
+| 2048       | `0.033153s`             | `0.02786s`             |
+| 32768      | `0.479747s`             | `0.291266s`            |
 
 <sup>* Tested on a Raspberry Pi 3B. Results will be even faster on any device stronger than the average microwave.</sup>
 ### It's portable
