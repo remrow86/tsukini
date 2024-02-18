@@ -1,3 +1,6 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/remrow86/tsukini?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/remrow86/tsukini?style=flat)
+<a href="https://www.github.com/remrow86/tsukini/releases/latest"><img alt="Download" src="https://img.shields.io/badge/download-0"></a>
 # 🥒 tsukini
 tsukini /tsɯkɪnɪ/ is a high-speed .ini file parser written in pure Lua.
 ### It's fast
@@ -30,4 +33,4 @@ cd tsukini
 luarocks make
 ```
 ## Contributors
-<a href = "https://github.com/remrow86/tsukini/graphs/contributors"><img src = "https://contrib.rocks/image?repo=remrow86/tsukini&size=32x32"/></a>
+<a href = "https://github.com/remrow86/tsukini/graphs/contributors"><img src = "https://contrib.rocks/image?repo=remrow86/tsukini"/></a>
